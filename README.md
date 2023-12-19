@@ -19,4 +19,4 @@ I have recently graduated from Aston University as a Business Analyst and intern
 
 ### How to reach me 📱
 
-[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hajar-ouagar/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.rohitswami.com/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@rowhitswami)
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/hajar-ouagar/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@hajarouagar)
