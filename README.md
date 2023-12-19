@@ -14,7 +14,7 @@ I have recently graduated from Aston University as a Business Analyst and intern
 
 **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Regression, SVM, Decision Tree.
 
-**Data Analysis:** Exploratory Data Analysis, Business Analysis, Inferential Statistics, Data Mapping, Predective Modelling  & Evaluation Metrics, Quantitative & Qualitative Methods, Google Analytics, Business Intelligence.
+**Data Analysis:** Exploratory Data Analysis, Business Analysis, Inferential Statistics, Data Mapping, Predective Modelling, Evaluation Metrics, Quantitative & Qualitative Methods, Google Analytics, Business Intelligence.
 
 
 ### How to reach me 📱
