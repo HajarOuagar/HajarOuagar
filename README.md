@@ -1,10 +1,11 @@
 ### Hi there 👋🏻 
-I am currently working as a Software Engineer II at [**Elucidata**](https://www.elucidata.io/). At Elucidata, I have:
+I have recently graduated from Aston University as a Business Analyst and interned as a Data Analyst. At Twigs Naturals, I have:
 
-- Designed and implemented highly scalable and fault-tolerant data pipelines on AWS, processing over 1 TB of critical data daily, ensuring seamless data flow and analysis.
-- Spearheaded the development and deployment of a suite of interactive dashboards using R Shiny, catering to over 10,000 monthly active users. Resulted in a remarkable 25% increase in user engagement and a substantial 37% decrease in support requests.
-- Collaborated with internal teams and international clients to provide expert technical support, enabling them to leverage the full potential of AWS with effective communication and guidance.
-- Demonstrated initiative and leadership by single-handedly creating an internal job submission platform. It empowered internal users to submit and manage batch jobs efficiently, streamlining operations and optimizing productivity.
+- Proactive approach to collaborating with financial and sales teams to analyse business requirements and translate technical needs into technical specifications, bridging the gap between business and IT.
+- Designed and built interactive dashboards using Looker Studio for KPIs tracking key business metrics, documented the technical process and presented the findings to technical and non-technical stakeholders.
+- Forecasted demand planning and inventory management to optimise stock levels, resulting in increasing operational efficiency by 15% and enhancing client satisfaction.
+- Collaborated with project managers and prepared reports for stakeholders to meet their business needs and make informed decisions.
+- Taken the initiative to connect Streamline with Google Sheets using REST API with Postman. 
 
 
 ### Things I'm good at :fire:
@@ -13,7 +14,8 @@ I am currently working as a Software Engineer II at [**Elucidata**](https://www.
 
 **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Regression, SVM, Decision Tree.
 
-**Data Analysis:** Exploratory Data Analysis, Business Analysis, Inferential Statistics, Predective Modelling  & Evaluation Metrics, Quantitative & Qualitative Methods, Google Analytics.
+**Data Analysis:** Exploratory Data Analysis, Business Analysis, Inferential Statistics, Data Mapping, Predective Modelling  & Evaluation Metrics, Quantitative & Qualitative Methods, Google Analytics, Business Intelligence.
+
 
 ### How to reach me 📱
 
