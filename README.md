@@ -1,12 +1,12 @@
 ### Hi there 👋🏻 
-I have recently graduated from Aston University as a Business Analyst and interned as a Data Analyst. At Twigs Naturals, I have:
+I am a a Data Analyst, at Save the Children International. On my daily basis, I have:
 
-- Proactive approach to collaborating with financial and sales teams to analyse business requirements and translate technical needs into technical specifications, bridging the gap between business and IT.
-- Designed and built interactive dashboards using Looker Studio for KPIs tracking key business metrics, documented the technical process and presented the findings to technical and non-technical stakeholders.
-- Forecasted demand planning and inventory management to optimise stock levels, resulting in increasing operational efficiency by 15% and enhancing client satisfaction.
-- Collaborated with project managers and prepared reports for stakeholders to meet their business needs and make informed decisions.
-- Taken the initiative to connect Streamline with Google Sheets using REST API with Postman. 
-
+• Executed the Data Migration Strategy, ensuring timely gathering, recording, and input of project data into financial and project management systems.
+•	Conducted thorough reviews of transposed data to verify accuracy and compliance with new programme principles.
+•	Managed multiple concurrent data sets, ensuring data migration milestones were met and synchronised with other deployment activities.
+•	Worked closely with regional change managers and country office teams, facilitating communication of data-gathering requirements and supporting data entry processes.
+•	Acted as Deputy Manager, leading a team of 6 Data Analysts and facilitating support calls with non-technical clients to ensure the resolution and implementation of Jira tickets.
+ 
 
 ### Things I'm good at :fire:
 
@@ -15,6 +15,8 @@ I have recently graduated from Aston University as a Business Analyst and intern
 **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Regression, SVM, Decision Tree.
 
 **Data Analysis:** Exploratory Data Analysis, Business Analysis, Inferential Statistics, Data Mapping, Predective Modelling, Evaluation Metrics, Quantitative & Qualitative Methods, Google Analytics, Business Intelligence.
+
+**Soft Skills:** Data Analysis, Business Analysis, Strategic Analysis, Market Research, SQL, Power BI, Machine Learning, Stakeholder Management, Presentation, Business Intelligence, Data Visualisation, Project Management, Documentation, Communication, Problem-Solving, Teamwork, Collaboration, Adaptability, Strategic Innovation, Creative Thinking.
 
 
 ### How to reach me 📱
