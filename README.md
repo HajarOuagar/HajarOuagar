@@ -1,11 +1,11 @@
 ### Hi there 👋🏻 
 I am a a Data Analyst, at Save the Children International. On my daily basis, I have:
 
-• Executed the Data Migration Strategy, ensuring timely gathering, recording, and input of project data into financial and project management systems.
-•	Conducted thorough reviews of transposed data to verify accuracy and compliance with new programme principles.
-•	Managed multiple concurrent data sets, ensuring data migration milestones were met and synchronised with other deployment activities.
-•	Worked closely with regional change managers and country office teams, facilitating communication of data-gathering requirements and supporting data entry processes.
-•	Acted as Deputy Manager, leading a team of 6 Data Analysts and facilitating support calls with non-technical clients to ensure the resolution and implementation of Jira tickets.
+- Executed the Data Migration Strategy, ensuring timely gathering, recording, and input of project data into financial and project management systems.
+- Conducted thorough reviews of transposed data to verify accuracy and compliance with new programme principles.
+- Managed multiple concurrent data sets, ensuring data migration milestones were met and synchronised with other deployment activities.
+- Worked closely with regional change managers and country office teams, facilitating communication of data-gathering requirements and supporting data entry processes.
+- Acted as Deputy Manager, leading a team of 6 Data Analysts and facilitating support calls with non-technical clients to ensure the resolution and implementation of Jira tickets.
  
 
 ### Things I'm good at :fire:
