@@ -1,67 +1,52 @@
 # Hi, I’m Hajar 👋
 
-Data Analyst specialized in SQL-based analytics, BI dashboarding, and business-facing reporting.  
-I build structured, scalable reporting solutions that transform complex datasets into clear, decision-ready insights.
+Senior Marketing & Business Data Analyst with a strong foundation in SQL, Python, and Business Intelligence.
 
-Currently working at Save the Children International, operating at the intersection of Business Analysis and Data Analytics.
+I operate at the intersection of business strategy and technical analytics — designing scalable data models, building KPI frameworks, and delivering executive dashboards that drive measurable decisions.
 
-## 🎯 What I Do
 
-- Translate business requirements into structured data models and reporting layers
-- Design KPI-driven dashboards for operational and executive monitoring
-- Migrate legacy Excel reporting into scalable BI environments
-- Ensure data quality, validation, and reconciliation across systems
-- Bridge business stakeholders and technical teams in Agile environments
+## 🚀 What I Do
 
-## 🧠 Core Technical Stack
+- Design scalable **data models (BigQuery / SQL)**
+- Build executive dashboards in **Power BI (DAX) & Looker Studio**
+- Perform **advanced SQL analysis & data validation**
+- Develop **forecasting and predictive models (Python – regression, classification)**
+- Conduct EDA, anomaly detection, and performance diagnostics
+- Translate complex business needs into structured analytical solutions
+
+
+## 🧠 Technical Stack
 
 **Data & Querying**
-- SQL (complex joins, aggregations, KPI modeling)
-- PostgreSQL
-- Data validation & reconciliation
+- SQL (BigQuery)
+- Snowflake-style warehouse logic
+- Data modeling (fact/dimension, aggregation strategy)
+
+**Analytics & Modeling**
+- Python (Pandas, NumPy, Scikit-learn)
+- Forecasting & predictive modeling
+- Statistical analysis & anomaly detection
 
 **BI & Visualization**
-- Power BI (DAX, semantic modeling, KPI design)
+- Power BI (DAX, KPI modeling, star schema)
 - Looker Studio
 - Dashboard performance optimization
 
-**Data Processing & Analysis**
-- Python (Pandas, NumPy, Scikit-learn)
-- Exploratory Data Analysis (EDA)
-- Forecasting & anomaly detection
-- Data cleaning & transformation
-
-**Data Management**
-- ETL processes
-- Data migration
-- Multi-source data harmonization
-- Data dictionary & governance support
-
-**Tools**
-- Excel (Advanced formulas, Pivot Tables, VBA basics)
-- Jira (Agile workflows, backlog management)
-- Mural / Process Mapping tools
+**Business Layer**
+- KPI definition (CPA, ROAS, CTR, conversion rate)
+- Marketing performance analytics
+- Requirements gathering & stakeholder alignment
 
 
-## 📊 Selected Projects
+## 🎯 My Positioning
 
-### 🔹 Marketing Performance Analytics
-Built KPI-driven dashboards consolidating multi-channel marketing data.  
-Designed metrics such as CPA, CTR, and conversion rates using SQL-based modeling and BI visualization layers.
+I combine:
+- Business Analysis rigor  
+- Technical SQL depth  
+- BI dashboard design  
+- Predictive modeling capability  
 
-### 🔹 Legacy Excel to BI Migration
-Redesigned complex Excel reporting into centralized Power BI dashboards.  
-Improved scalability, governance, and data validation processes.
-
-### 🔹 Data Quality & Structuring Framework
-Developed structured validation processes for multi-source datasets.  
-Ensured consistency, completeness, and reliability for executive reporting.
+to deliver data systems that are not just visual — but decision-ready.
 
 
-## 🚀 Professional Focus
-
-I operate comfortably at both the business and technical layers —  
-structuring requirements, modeling data, and delivering reporting solutions that support real decision-making.
-
-My goal is to build analytics systems that are not only technically sound, but trusted and actionable.
-
+📫 Connect with me on LinkedIn  
